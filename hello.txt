@@ -11,10 +11,5 @@ helloyy
 helloyy
 helloyy
 helloyy
-<<<<<<< HEAD
 helloyy  master commit
-helloyy
-=======
-helloyy
 helloyy hot-fig commit
->>>>>>> hot-fix
